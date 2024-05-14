@@ -16,8 +16,6 @@
         <p>Welcome to my GitHub page!</p>
         <p>This is some content on my page.</p>
     </main>
-    <footer>
-        <p>&copy; 2024 My GitHub Page</p>
-    </footer>
+
 </body>
 </html>
